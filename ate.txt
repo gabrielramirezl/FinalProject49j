@@ -1,0 +1,10 @@
+bear's hunger level is: 18
+salmon:  -2
+berries: -3
+honey:   -1
+berries: -3
+salmon:  -2
+berries: -3
+salmon:  -2
+honey:   -1
+honey:   -1

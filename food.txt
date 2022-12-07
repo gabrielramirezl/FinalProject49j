@@ -1,0 +1,9 @@
+salmon, berries, honey, berries, salmon, berries, mouse
+salmon, fish, honey
+bird, honey, salmon, salmon, berries, berries
+berries, salmon, honey
+berries, honey, salmon
+salmon, honey, berries
+salmon, berries, honey
+honey, salmon, berries
+honey, berries, salmon
